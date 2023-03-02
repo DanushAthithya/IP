@@ -1,5 +1,7 @@
 Internet Programming Laboratory
+
 List of Excercises
+
 1.Image Mapping:
   For the 1st exercise we initiated image mapping for a image consisting of some legendary football players and
   if we click their image we will be redirected to their wikipedia page,This is implemented by using html map tag.
